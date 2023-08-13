@@ -26,3 +26,5 @@ bld/
 *.userosscache
 *.sln.docstates
 /.idea
+.idea/*
+.idea
